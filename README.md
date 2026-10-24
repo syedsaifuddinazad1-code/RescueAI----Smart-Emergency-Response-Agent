@@ -1,1 +1,0 @@
-# RescueAI----Smart-Emergency-Response-Agent
