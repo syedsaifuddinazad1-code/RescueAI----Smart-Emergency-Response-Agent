@@ -2,7 +2,7 @@
 
 ### AI-Assisted Emergency Response Planning and Coordination
 
-DisasterGuard AI is a prototype designed to help people organize
+DisasterGuard AI is a prototype designed to help people organize 
 emergency information and generate actionable response plans
 during natural disasters and other emergencies.
 
