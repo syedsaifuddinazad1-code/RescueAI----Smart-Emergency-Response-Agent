@@ -1,0 +1,29 @@
+🚨 RescueAI – Rescue Smart Emergency Agent.
+
+RescueAI is an emergency response planning agent designed to help people respond to natural disasters such as floods, 
+earthquakes, cyclones, and other emergencies. It analyzes user-reported emergency information,
+identifies the possible disaster category, assigns a preliminary priority level, and generates actionable safety recommendations.
+
+The system provides a simple interface where users can enter the emergency location and describe the situation. 
+Based on the report, RescueAI generates a structured response plan, suggests relevant emergency resource categories,
+and provides an interactive task checklist to support emergency coordination.
+
+The goal of RescueAI is to improve emergency awareness, organize critical information, 
+and support faster decision-making during disasters through AI-assisted technology.
+
+Key Features:
+• 🚨 Emergency report analysis and disaster classification.
+• ⚠️ Preliminary emergency priority assessment.
+• 🛡️ Disaster-specific safety recommendations.
+• 🤝 Suggested emergency coordination resources.
+• ✅ Interactive responder task checklist.
+• 🌐 Simple and user-friendly web interface.
+
+Technology Stack: Python, Streamlit, rule-based text classification, Git, and GitHub.
+
+Expected Impact: RescueAI aims to help people organize emergency information, understand recommended safety actions,
+and coordinate response activities more effectively during critical situations.
+
+Important technical note: The current prototype uses keyword-based classification.
+It does not detect disasters automatically or access real-time disaster data.
+Real-time detection and verified alerts are planned improvements.
